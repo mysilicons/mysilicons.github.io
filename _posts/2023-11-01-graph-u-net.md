@@ -1,6 +1,7 @@
 ---
 title: "Graph-U Net: 一种高效的图神经网络架构"
 date: 2023-11-01
+permalink: /posts/2025/07/Graph-U Net/
 categories:
   - "机器学习"
   - "图神经网络"
